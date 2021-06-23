@@ -8,7 +8,7 @@ My name is Christian Häublein, I am a Senior Backend Developer at [Empiriecom G
  ```text
  4123 BF8F 6C52 2466 F6AD  102C 1FCB FBFA 707D 8963
  ```
- You can copy the key below or download it [here](./public.pgp).
+ You can copy the key below or download it [here](public.pgp).
  
  ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
